@@ -1,0 +1,8 @@
+export const Action = {
+    EDITED_ITEM: "EDITED_ITEM",
+    IS_UBICACION_NEW_ITEM: "IS_UBICACION_NEW_ITEM",
+};
+export const Mutation = {
+    EDITED_ITEM: "EDITED_ITEM",
+    IS_UBICACION_NEW_ITEM: "IS_UBICACION_NEW_ITEM",
+};
